@@ -56,7 +56,7 @@ dog-cat-classifier/
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dog-cat-classifier.git
+git clone https://github.com/Arshavir01/dog-cat-classifier.git
 cd dog-cat-classifier
 pip install -r requirements.txt
 streamlit run app.py
